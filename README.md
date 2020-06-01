@@ -13,7 +13,8 @@ After configure Firebase by creating .env in the root of the project and adding 
 ```javascript
 REACT_APP_API_KEY=xxxx
 REACT_APP_MESSAGING_SENDER_ID=111
-REACT_APP_APP_ID=1x1x1x```
+REACT_APP_APP_ID=1x1x1x
+```
 
 To get the API_KEY, SENDER_ID, APP_ID, register and create a new app with [Firebase](https://firebase.google.com/).
 
