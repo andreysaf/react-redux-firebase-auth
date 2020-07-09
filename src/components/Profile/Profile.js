@@ -1,9 +1,9 @@
 import React from 'react';
 import { Box, Button, Text, Avatar, Card, Container, Heading } from 'gestalt';
 import 'gestalt/dist/gestalt.css';
-import { auth } from '../Firebase/firebase';
+import { auth } from '../../Firebase/firebase';
 import { useSelector, useDispatch } from 'react-redux';
-import { selectUser, setUser } from '../Firebase/firebaseSlice';
+import { selectUser, setUser } from '../../Firebase/firebaseSlice';
 
 const ProfilePage = () => {
   const dispatch = useDispatch();

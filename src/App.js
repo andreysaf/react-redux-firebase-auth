@@ -8,8 +8,8 @@ import SignUp from './components/SignUp/SignUp';
 import PasswordReset from './components/PasswordReset/PasswordReset';
 
 
-import { auth, generateUserDocument } from './components/Firebase/firebase';
-import { setUser, selectUser } from './components/Firebase/firebaseSlice';
+import { auth, generateUserDocument } from './Firebase/firebase';
+import { setUser, selectUser } from './Firebase/firebaseSlice';
 
 import './App.css';
 

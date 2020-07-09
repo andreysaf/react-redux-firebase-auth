@@ -3,7 +3,7 @@ import { Link } from '@reach/router';
 import { Box, Button, Toast, Container, TextField, Heading } from 'gestalt';
 import 'gestalt/dist/gestalt.css';
 
-import { auth } from '../Firebase/firebase';
+import { auth } from '../../Firebase/firebase';
 
 const PasswordReset = () => {
   const [email, setEmail] = useState('');
