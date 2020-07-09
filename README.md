@@ -28,7 +28,13 @@ The above information can be found under settings of your Firebase app.
 
 To get the API_KEY, SENDER_ID, APP_ID and others register and create a new app with [Firebase](https://firebase.google.com/).
 
-### `npm start`
+## Run the app
+
+You can run the app by typing in the terminal
+
+```
+npm start
+```
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
