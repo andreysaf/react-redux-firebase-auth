@@ -26,7 +26,8 @@ REACT_APP_STORAGE_BUCKET=your_storage_bucket
 The above information can be found under settings of your Firebase app.
 ![Screenshot](https://github.com/PDFTron/pdftron-sign-app/blob/master/firebase.png)
 
-To get the API_KEY, SENDER_ID, APP_ID and others register and create a new app with [Firebase](https://firebase.google.com/).
+Make sure you create a storage bucket, and enable authentication for email and Google.
+![Screenshot](https://github.com/PDFTron/pdftron-sign-app/blob/master/firebase_authentication.png)
 
 ## Run the app
 
